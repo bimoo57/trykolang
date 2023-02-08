@@ -1,0 +1,77 @@
+!DOCTYPE html>
+<html>
+<head>
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <title></title>
+      <a href="index.html">Home</a>
+      <a href="Profile.html">Profile</a>
+      <a href="Contact.html">Contact</a>
+      <hr>
+</head>
+<body>
+      <h1> Froi HUB </h1>
+    <form>
+      <fieldset><legend>MY PROFILE</legend><img class="bonjing" src="profile.jpg" width="250" height="250" border="2" align="left">
+            Name:Joshua froi <br>
+            Age: 17 <br>
+            Status: Single <br>
+            Address: #18 Upper atok trail, Baguio City <br>
+            Zip Code: 2600 <br>
+            Birthdate:December 1 2005 <br>
+            School: University of the Cordilleras <br>
+      </fieldset></form>
+      <hr>
+      <form>
+          <fieldset><legend>ADD POST HERE:</legend><br>
+            <button>ADD PHOTO</button> <button>ADD VIDEO</button><br>
+            <textarea rows="4" cols="50"></textarea><br>
+            <button>POST</button><br>
+      </fieldset></form>
+      <hr>
+    <form>
+          <fieldset><legend>FAVORITE FOODS:</legend>
+            <img src="mango.jpg" width="300" height="200" border="2"> <img src="carbonara.jpg" height="200" width="300" border="2"> <img src="https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4c41b09cf41644a7b7ca1780edbeb960/BFV8354_Honey_BBQ_Chicken_Wings-FB1080.jpg" height="200" width="300" border="2">
+      </fieldset></form>
+      <hr>
+      <form>
+          <fieldset><legend>HOBBIES:</legend>
+            <img src="cod.jpg" width="300" height="200" border="2"> <img src="badminton.jpg" height="200" width="300" border="2"> <img src="basketball.jpg" height="200" width="300" border="2">
+      </fieldset></form>
+      <hr>
+      <form>
+          <fieldset><legend>FAVORITE COLORS:</legend>
+          <center>
+            <h1 id="green">Green</h1>
+            <h1 id="lightBlue">LightBlue</h1>
+            <h1 id="black">Black</h1>
+            <h1 id="red">Red</h1>
+          </center>
+      </fieldset></form>
+      <hr>
+      <fieldset>
+            <legend>POSTS:</legend><br>
+            <p>Playing mobile legend with kwini</p><br>
+            <img src="ml.jpg" width="300" height="200" border="2"><br>
+            <p>January 19 2022<br>
+            <textarea rows="4" cols="50"></textarea><br>
+            <button>comment</button><br>
+            <hr>
+
+            <p>bondee with friends!!</p><br>
+            <img src="bonjing.jpg" width="300" height="200" border="2"><br>
+            <p> Febuary 2 2023<br>
+            <textarea rows="4" cols="50"></textarea><br>
+            <button>comment</button><br>
+            <hr>
+
+            <p>new skin obtained</p><br>
+            <img src="skin.jpg" width="300" height="200" border="2"><br>
+            <p> Febuary 27 2023<br>
+            <textarea rows="4" cols="50"></textarea><br>
+            <button>comment</button><br>
+            <hr>
+
+  
+      </fieldset>
+</body>
+</html>

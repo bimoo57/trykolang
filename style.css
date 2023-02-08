@@ -1,0 +1,123 @@
+body{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover
+
+}
+hr{
+	border-color: black;
+	background-color: black;
+	opacity: 50%;
+}
+fieldset{
+	border-color: white	;
+	font-family: Century Gothic;
+}
+fieldset{
+	font-weight: bold;
+	font-size: 20px;
+ font-family: Century Gothic;
+}
+a{
+	color: black;
+}
+#img{
+	border-style: solid;
+}
+#youinfo{
+	text-align: center;
+}
+
+.container{
+	display: flex;
+	align-items: left;
+	justify-content: left;
+}
+.image{
+	border-style: solid;
+}
+.text{
+	align-content: left;
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+#food1{
+	border-style: solid;
+	border-color: red;
+}
+#food2{
+	border-style: solid;
+	border-color: red;
+}
+#food3{
+	border-style: solid;
+	border-color: red;
+}
+#food4{
+	border-style: solid;
+	border-color: red;
+}
+#food5{
+	border-style: solid;
+	border-color: red;
+}
+
+#green{
+	background-color: green;
+	color: white;
+}
+#lightBlue{
+	background-color: lightblue;
+	color: white;
+}
+#black{
+	background-color: black;
+	color: white;
+}
+#red{
+	background-color: red;
+	color: white;
+}
+
+.container1{
+	display: flex;
+	align-items: left;
+	justify-content: left;
+}
+.container2{
+	display: flex;
+	align-items: left;
+	justify-content: left;
+}
+.container3{
+	display: flex;
+	align-items: left;
+	justify-content: left;
+}
+.container4{
+	display: flex;
+	align-items: left;
+	justify-content: left;
+}
+
+
+#p-icon{
+	width: 50px;
+	height: 50px;
+}
+#e-icon{
+	width: 50px;
+	height: 50px;
+}
+#fb-icon{
+	width: 50px;
+	height: 50px;
+}
+#ig-icon{
+	width: 50px;
+	height: 50px;
+}
+
+#button{
+	background-color: lightblue;
